@@ -1,0 +1,17 @@
+{
+  "socketURL": "/",
+  "dirPath": "",
+  "homePage": "/demos/index.html",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "port": "443",
+  "enableLogs": "false",
+  "autoRebootServerOnFailure": "true",
+  "isUseHTTPs": "true",
+  "sslKey": "./fake-keys/mobesonlineprivatekey.pem",
+  "sslCert": "./fake-keys/mobesonlinecertificate.pem",
+  "sslCabundle": "",
+  "enableAdmin": "true",
+  "adminUserName": "kodalakhuseyin",
+  "adminPassword": "huseyinkodalak"
+}
